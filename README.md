@@ -1,6 +1,5 @@
 ### @kyoruni
 
-- :office: [moove Co., Ltd.](https://moove.co.jp/)
 - :muscle: PHP, JavaScript, Python, C#, MySQL, Oracle Database
 - :beginner: AWS, Ruby, Golang, Docker
 
