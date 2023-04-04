@@ -1,7 +1,7 @@
-### @kyoruni
+### [@kyoruni](http://kyoruni.net/)
 
-- :muscle: PHP, JavaScript, Python, C#, MySQL, Oracle Database
-- :beginner: AWS, Ruby, Golang, Docker
+- :muscle: PHP, JavaScript, Python, Golang, C#, MySQL, Oracle Database
+- :beginner: AWS, Ruby, Perl, Docker
 
 <a href="https://github-readme-stats.vercel.app/api?username=kyoruni&show_icons=true&count_private=true&hide=issues&theme=buefy">
   <img align="left" height="130px" src="https://github-readme-stats.vercel.app/api?username=kyoruni&show_icons=true&count_private=true&hide=issues&theme=buefy"/>
